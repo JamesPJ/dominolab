@@ -45,6 +45,7 @@ dominolab/
     App.js
     App.test.js
     Flexi.js
+    flexiConfig.json        <<==============  Modify to update the fields
     index.css
     index.js
     logo.svg
