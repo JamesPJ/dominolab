@@ -14,7 +14,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 - [Supported Browsers](#supported-browsers)
 ## Pulling code to your local machine
 
-Copy the repo URL from the top right corner of the page and run the ```git clone URL```.
+Copy the repo URL https://github.com/JamesPJ/dominolab.git and run ```git clone URL```.
 Once the code base has cloned to your local machine run the below commands
 ```
 cd dominolab
